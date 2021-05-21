@@ -1,0 +1,30 @@
+/*
+.color1 {color: #00060f;}
+.color2 {color: #1b1d31;}
+.color3 {color: #5c6077;}
+.color4 {color: #aea0bf;}
+.color5 {color: #e2c9e0;}
+*/
+
+body {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.quem-somos {
+  background-color: #aea0bf;
+}
+
+.margin {
+  padding-bottom: 50px;
+  padding-top: 10px;
+}
+
+.cultos {
+  background-color: #e2c9e0;
+}
+
+.bg-footer {
+  background-color: black;
+  color: white;
+}
